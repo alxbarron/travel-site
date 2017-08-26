@@ -1,0 +1,10 @@
+body {
+  font-family: 'Roboto', 'Arial';
+  color: $mainBlue;
+  background-color: #fff;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
